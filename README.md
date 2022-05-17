@@ -1,3 +1,4 @@
+More about myself...
 👋 Hi, My name is Andriy
 I’m very interested in coding and computers💻
 Nowdays I'm learning JavaScript, HTML/CSS and Python🤖
