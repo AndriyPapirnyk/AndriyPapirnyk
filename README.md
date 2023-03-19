@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img width="200" src= "https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
+  <img width="500" src= "https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 </p>
 
 ---
