@@ -25,9 +25,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/andriy papirnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andriy papirnyk" height="30" width="40" /></a>
 <a href="https://instagram.com/andriy.papirnyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andriy.papirnyk" height="30" width="40" /></a>
-  
- <a href="https://t.me/AndriyPapirnyk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="andriy.papirnyk" height="30" width="40" /></a>
-
 </p>
 
 <hr>
