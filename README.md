@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [nz](https://github.com/AndriyPapirnyk/nz) <br>
+- 🔭 I’m currently working on [reactpage](https://github.com/AndriyPapirnyk/nz) <br>
 </p>
 
 <hr>
