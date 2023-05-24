@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [reactpage]([https://github.com/AndriyPapirnyk/nz](https://reactpage-sigma.vercel.app/)) <br>
+- 🔭 I’m currently working on [reactpage](https://reactpage-sigma.vercel.app/) <br>
 </p>
 
 <hr>
