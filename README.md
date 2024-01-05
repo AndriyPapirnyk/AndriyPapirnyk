@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [react-clock](https://github.com/AndriyPapirnyk/react-clock) <br>
+- 🔭 I’m currently working on [creator-exuses]<br>
 </p>
 
 <hr>
