@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [creator-exuses]<br>
+- 🔭 I’m currently working on [creatype]<br>
 </p>
 
 <hr>
