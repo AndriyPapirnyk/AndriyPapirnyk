@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [creatype]<br>
+- 🔭 I’m currently working on [QR]<br>
 </p>
 
 <hr>
