@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [qr client, qr-client]<br>
+- 🔭 I’m currently working on [carHub]<br>
 </p>
 
 <hr>
