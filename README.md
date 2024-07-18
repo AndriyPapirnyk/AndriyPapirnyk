@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [PROMPTOPIA]<br>
+- 🔭 I’m currently working on [YOOM]<br>
 </p>
 
 <hr>
