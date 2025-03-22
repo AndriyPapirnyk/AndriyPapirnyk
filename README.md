@@ -14,7 +14,7 @@
 <hr>
 
 <p align="center">
-- 🔭 I’m currently working on [Quest-building-app]<br>
+- 🔭 I’m currently working on Euphoria e-commerce<br>
 </p>
 
 <hr>
