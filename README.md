@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
 
-<h3 align="center">Hi, I'm Andriy <br> A passionate Full Stack Developer with experience in building modern web applications using JavaScript, TypeScript, Node.js, React, Next.js and more. I love turning ideas into functional, scalable, and user-friendly solutions.</h3>
+<h3 align="center">Hi, I'm Andriy <br> A passionate Full Stack Developer with experience <br> in building modern web applications using <br> JavaScript, TypeScript, Node.js, React, Next.js <br> and more. I love turning ideas into <br> functional, scalable, and user-friendly solutions.</h3>
 
 
 <p align="center">
