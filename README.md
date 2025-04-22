@@ -31,6 +31,7 @@
 
 
 <h3 align="center">Languages and Tools:</h3>
+
 ## 💻 Front-End
 
 <p align="center">
