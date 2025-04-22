@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h3 align="center">Hi, I'm Andriy <br> A Dedicated Full-Stack Developer from Ukraine</h3>
+<h3 align="center">Hi, I'm Andriy <br> A Diligent Full-Stack Developer from Ukraine</h3>
 
 
 <p align="center">
