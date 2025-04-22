@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/office40/512/express-js.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/NestJS-logo-wordmark.svg/2560px-NestJS-logo-wordmark.svg.png" alt="nestjs" width="90" height="40"/>
