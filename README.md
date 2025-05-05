@@ -6,7 +6,6 @@
 <h1 align="center">Hi, I'm Andriy</h1>
 <h3 align="center">A passionate Full Stack Developer with experience <br> in building modern web applications. I love turning ideas into <br> functional, scalable, and user-friendly solutions.</h3>
 
-
 <p align="center">
   <img width="500" src= "https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif">
 </p>
