@@ -13,7 +13,7 @@
 
 <hr>
 <p align="center">
-- 🔭 I’m currently working on Euphoria Client/Server<br>
+- 🔭 I’m currently working on [...]/Server<br>
 </p>
 
 
