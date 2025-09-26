@@ -13,7 +13,7 @@
 
 <hr>
 <p align="center">
-- 🔭 I’m currently learning on c, c++<br>
+- 🔭 I’m currently learning c, c++<br>
 </p>
 
 
